@@ -1,0 +1,17 @@
+body.light-mode {
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
+
+body.dark-mode {
+    background-color: black;
+    color: white;
+    font-family: Times New Roman;
+}
+
+button {
+    margin: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
